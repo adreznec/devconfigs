@@ -1,0 +1,5 @@
+.gitreview
+*.orig
+*.sw[pon]
+*.*~
+
